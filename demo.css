@@ -1,0 +1,40 @@
+h1
+{
+	text-align:center;
+	font-size:35px;
+	color: red;
+}
+h2
+{
+	text-align:center;
+	font-size:30px;
+	color:red;
+}
+.image img
+{
+	width:300;
+	height:300;
+}
+.details
+{ 
+	margin-top:10px;
+	margin-left:60px;
+	font-size:30px;
+}
+.detail
+{ 
+	margin-top:10px;
+	margin-left:60px;
+	font-size:30px;
+}
+h3
+{
+	color:yellow;
+	font-size:30px;
+}
+h4
+{
+	color:white;
+	font-size:25px;
+}
+	
